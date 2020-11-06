@@ -1,1 +1,14 @@
 # final-project
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+#Mario game, a verison of flappy bird, a version of temple run 
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+#Elva Li and Haley Mandell 
+
+## Do you have any questions of your own?
+
+#No 
